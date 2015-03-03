@@ -1,0 +1,31 @@
+{
+  "name": "gulp-base64-webfont-css",
+  "version": "0.0.1",
+  "description": "Generate css files with Base64 encoded font data from woff and woff2 files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ygoto3/gulp-base64-webfont-css.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "git",
+    "package.json",
+    "webfonts",
+    "css",
+    "base64"
+  ],
+  "author": "ygoto3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ygoto3/gulp-base64-webfont-css/issues"
+  },
+  "homepage": "https://github.com/ygoto3/gulp-base64-webfont-css",
+  "dependencies": {
+    "gulp-util": "^3.0.4",
+    "through2": "^0.6.3"
+  }
+}
